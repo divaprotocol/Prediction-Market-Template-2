@@ -1,0 +1,21 @@
+[
+    {
+        "campaignId": "miami_under_water",
+        "pools": [
+            {
+                "poolId": "0x26a3ea71acbffa9bb6cbdba8264c25675033b6316b855e1e4c5a0d42dc115c45",
+                "yesToken": "0x712C359B44a32CA2D61C337414b90dB81C9738Ca",
+                "noToken": "0x43ACeb3AE246e6460276bA52F83Ea7cBDb76F454"
+            }
+        ],
+        "img": "/Images/pastrolists400pxVertical.png",
+        "marketTitle": "Miami under water by 2050?",
+        "marketDescription": "In the year 2050, Miami finds itself grappling with the ominous reality of being submerged beneath rising sea levels. The once vibrant coastal city, renowned for its stunning beaches and lively atmosphere, now faces the dire consequences of climate change. As a result of melting ice caps and warming oceans, sea levels have surged, causing extensive flooding throughout Miami. Iconic landmarks like Ocean Drive and South Beach are now submerged, and the city's intricate network of canals struggles to manage the relentless influx of seawater. Residents have been forced to adapt to a new normal, with elevated walkways and floating structures becoming a common sight in this aquatic landscape being submerged beneath rising sea levels. The market will be evaluated based on whether the price per square meter in Miami falls below $100.",
+        "collateralToken": "0x40caD342a67Bf49A2c384203025ad1eBEE1E30c5",
+        "decimals": "18",
+        "divaContractAddress": "0x2C9c47E7d254e493f02acfB410864b9a86c28e1D",
+        "chainId": "137",
+        "expiryTimestamp": "2524604520",
+        "divaFee": "0.003"
+    }
+]
